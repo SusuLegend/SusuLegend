@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jason adika tanuwijaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jason adika tanuwijaya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@jasonadikatan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@jasonadikatan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jason-adika-tanuwijaya-a44782273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jason adika tanuwijaya" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jasonadikatan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@jasonadikatan" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/susulegend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="susulegend" height="30" width="40" /></a>
 </p>
 
