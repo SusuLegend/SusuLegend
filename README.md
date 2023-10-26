@@ -3,7 +3,7 @@
 
 <img align="right" alt="elsa" width="400" src="https://media.tenor.com/YEQWCXQKgl4AAAAC/frozen-elsa.gif" >
 
-- 🔭 I’m currently working on **problem solving skill**
+- 🔭 I’m currently working on **problem solving skill and networking skill**
 
 - 🌱 I’m currently learning **AWS**
 
