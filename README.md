@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jason Adika Tanuwijaya</h1>
 <h3 align="center">A Young Programmer that passionate about being a Data Scientist</h3>
 
-<img align="right" alt="elsa" width="400" src="https://media.tenor.com/YEQWCXQKgl4AAAAC/frozen-elsa.gif" >
-
 - 🔭 I’m currently working on **problem solving skill and networking skill**
 
 - 🌱 I’m currently learning **AWS**
