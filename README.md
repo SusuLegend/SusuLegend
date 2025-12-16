@@ -16,31 +16,43 @@
 - ⭐ 2026's Objective: get a Job <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ I love collecting figures
 
-### Languages & Frameworks
+### Languages
 <p>
   <code><img height="25" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"></code>
   <code><img height="25" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"></code>
   <code><img height="25" src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" alt="R"></code>
   <code><img height="25" src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"></code>
   <code><img height="25" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"></code>
+  <code><img height="25" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"></code>
+  <code><img height="25" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"></code> </p>
+  <code><img height="25" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java"></code> 
+</p>
+
+### Data Science / ML Libraries
+<p>
   <code><img height="25" src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"></code>
   <code><img height="25" src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"></code>
   <code><img height="25" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"></code>
   <code><img height="25" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"></code>
   <code><img height="25" src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras"></code>
   <code><img height="25" src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"></code>
+  <code><img height="25" src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib"></code>
+  <code><img height="25" src="https://img.shields.io/badge/-Seaborn-0B4F8C?style=flat&logo=seaborn&logoColor=white" alt="Seaborn"></code>
 </p>
 
 ### ML/AI Specialization
 <p>
   <code><img height="25" src="https://img.shields.io/badge/-YOLO-00FFFF?style=flat&logo=yolo&logoColor=black" alt="YOLO"></code>
   <code><img height="25" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"></code>
-  <code><img height="25" src="https://img.shields.io/badge/-MediaPipe-0097A7?style=flat&logo=google&logoColor=white" alt="MediaPipe"></code>
+  <code><img height="25" src="https://img.shields.io/badge/-MediaPipe-0097A7?style=flat&logo=python&logoColor=white" alt="MediaPipe"></code>
   <code><img height="25" src="https://img.shields.io/badge/-InsightFace-FF6B6B?style=flat&logo=python&logoColor=white" alt="InsightFace"></code>
   <code><img height="25" src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face"></code>
   <code><img height="25" src="https://img.shields.io/badge/-NLTK-154f3c?style=flat&logo=python&logoColor=white" alt="NLTK"></code>
   <code><img height="25" src="https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI"></code>
   <code><img height="25" src="https://img.shields.io/badge/-Chainlit-0066CC?style=flat&logo=chainlink&logoColor=white" alt="Chainlit"></code>
+  <code><img height="25" src="https://img.shields.io/badge/-Ollama-6C63FF?style=flat&logoColor=white" alt="Ollama"></code>
+  <code><img height="25" src="https://img.shields.io/badge/-Gemini-00BFFF?style=flat&logoColor=white" alt="Gemini"></code>
+  <code><img height="25" src="https://img.shields.io/badge/-Amazon_Bedrock-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="Amazon Bedrock"></code>
 </p>
 
 ### Cloud & Infrastructure
@@ -62,6 +74,7 @@
   <code><img height="25" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"></code>
   <code><img height="25" src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"></code>
   <code><img height="25" src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask"></code>
+  <code><img height="25" src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"></code>
   <code><img height="25" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit"></code>
   <code><img height="25" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React.js"></code>
   <code><img height="25" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"></code>
@@ -73,11 +86,6 @@
 
 <br />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Commits-1500-informational?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Repositories-35-success?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Forks-10-important?style=for-the-badge&logo=github&logoColor=white" />
-</p>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=susulegend&show_icons=true&theme=github_dark)](https://github.com/susulegend)
 &nbsp;&nbsp;
@@ -88,7 +96,7 @@
 
 ### 🌐 Portfolio
 <p>
-  🌍 <a href="https://jason-tanuwijaya-portfolio.vercel.app/">your-website.com</a> &nbsp;|&nbsp;
+  🌍 <a href="https://jason-tanuwijaya-portfolio.vercel.app/">jasonadikatan_resume.com</a> &nbsp;|&nbsp;
   🧠 <a href="https://github.com/SusuLegend?tab=repositories">Projects</a>
 </p>
 
