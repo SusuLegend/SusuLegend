@@ -9,7 +9,15 @@
 
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/jason-adika-tanuwijaya-a44782273/" target="_blank" rel="noopener noreferrer">Jason Adika Tanuwijaya</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
  
-<a href="https://github.com/SusuLegend"><img align='right' src='https://i.pinimg.com/originals/29/b7/48/29b748f2a5ed5ca18916c3d0eab84e83.gif' height='250"'></a></h2>
+<a href="https://github.com/SusuLegend">
+  <img 
+    align="right" 
+    src="https://i.pinimg.com/originals/29/b7/48/29b748f2a5ed5ca18916c3d0eab84e83.gif" 
+    width="300" 
+    height="300"
+  />
+</a>
+
 
 - 🎓 I'm a Final Year Data Science Student
 - 💻 I'm currently working on AthMech as an Intern
